@@ -7,7 +7,7 @@ I'm an indie full-stack developer and content creator building my version of the
    <p align="left">
   // https://www.linkedin.com/in/zulqadara/
    <a href="https://www.linkedin.com/in/zulqadara/">
-         <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
+         <img alt="LinkedIn" width="30px" style="padding-right:10px;" title="Connect with me on LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
       <a href="https://github.com/Zulqadara?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Zulqadara?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
