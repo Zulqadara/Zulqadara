@@ -2,7 +2,7 @@
 
 **`Software and DevOps Engineer`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+I'm an indie full-stack developer and DevOps Engineer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with software architecture.
 
    <p align="left">
    <a href="https://www.linkedin.com/in/zulqadara/">
