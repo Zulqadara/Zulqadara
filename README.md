@@ -2,7 +2,7 @@
 - 👀 I’m interested in Micro Services and Software Development
 - 🌱 I’m currently learning various new JS Frameworks 
 - 💞️ I’m looking to collaborate on Software and DevOps Projects
-- 📫 How to reach me, email: zulqadar.a@gmail.com ; LinkedIn: linkedin.com/in/zulqadara/
+- 📫 How to reach me, email: zulqadar.a@gmail.com ; LinkedIn: www.linkedin.com/in/zulqadara/
 - ⚠️ Not all my projects are public as they are for clients. However, I have modified a few projects by removing client info.
 
 <!---
