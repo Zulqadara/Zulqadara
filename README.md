@@ -1,4 +1,4 @@
-# 🧞‍♂️ Syed Zulqadar Ali
+# 🧞‍♂️ Zulqadar Ali
 
 **`Software and DevOps Engineer`**
 
